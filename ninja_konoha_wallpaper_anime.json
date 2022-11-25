@@ -8,7 +8,7 @@
     }
   ],
   
-  "more":[
+  "morex":[
    {
       "id":1,
       "title":"Ludo King",
@@ -29,7 +29,7 @@
     }
    ],
   
-  "Categories": [
+  "Categoriesx": [
     {
       "name_category": "Ninja Konoha",
       "wallpaper_url": "https://wallpaperaccess.com/full/132736.jpg"
@@ -47,7 +47,7 @@
       "wallpaper_url": "https://wallpaperaccess.com/full/170712.jpg"
     }
   ],
-  "Wallpaper": [
+  "Wallpaperx": [
     {
       "id": 1,
       "name_category": "Ninja Konoha",
